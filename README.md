@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lemadior
-- 👀 I’m interested in programming, 3D modelling and writing fary-tales.
+- 👀 I’m interested in programming, 3D modelling and writing fairy-tales.
 - 🌱 I’m currently learning PHP, JavaScript, SQL and so on.. 
 - 💞️ I’m looking to collaborate on.. not looking
 - 📫 How to reach me: by email
